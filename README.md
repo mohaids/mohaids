@@ -2,6 +2,11 @@
 
 Yes, I will die on this hill 
 
+## 'Bout me
+
+student @ rpi (first poly uni in u.s. 😩)
+catch my portfolio @: www.siddiqmohaideen.com
+
 ## Currently Learning
 
 - aws (cloud stuff)
