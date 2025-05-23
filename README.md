@@ -2,6 +2,11 @@
 
 Yes, I will die on this hill 
 
+## Currently Learning
+
+- aws (cloud stuff)
+- security stuff
+- good note taking 😩
 <!--
 **mohaids/mohaids** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
