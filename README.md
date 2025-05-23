@@ -5,7 +5,8 @@ Yes, I will die on this hill
 ## 'Bout me
 
 student @ rpi (first poly uni in u.s. 😩)
-catch my portfolio @: www.siddiqmohaideen.com
+
+catch my blog @: www.siddiqmohaideen.com
 
 ## Currently Learning
 
