@@ -8,6 +8,8 @@ student @ rpi (first poly uni in u.s. 😩)
 
 catch my blog @: www.siddiqmohaideen.com
 
+contact me: him@siddiqmohaideen.com 😛
+
 ## Currently Learning
 
 - aws (cloud stuff)
