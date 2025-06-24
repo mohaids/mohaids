@@ -4,7 +4,7 @@ Yes, I will die on this hill
 
 ## 'Bout me
 
-student @ rpi (first poly uni in u.s. 😩)
+student @ rpi (first poly uni in u.s.)
 
 catch my blog @: www.siddiqmohaideen.com
 
@@ -14,7 +14,7 @@ contact me: him@siddiqmohaideen.com 😛
 
 - aws (cloud stuff)
 - security stuff
-- good note taking 😩
+- good note taking
 <!--
 **mohaids/mohaids** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
