@@ -13,7 +13,7 @@ contact me: him@siddiqmohaideen.com 😛
 ## Currently Learning
 
 - aws (cloud stuff)
-- security stuff
+- security stuff :)
 - good note taking
 <!--
 **mohaids/mohaids** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
