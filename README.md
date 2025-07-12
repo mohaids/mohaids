@@ -1,6 +1,6 @@
 ## 👀"Thoughts"
 
-Yes, I will die on this hill 
+Yes, I will die on this hill.
 
 ## 'Bout me
 
