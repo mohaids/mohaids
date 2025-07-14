@@ -13,7 +13,7 @@ contact me: him@siddiqmohaideen.com 😛
 ## Currently Learning
 
 - aws (cloud stuff)
-- docker
+- docker (hopefully kubernetes as well)
 - security stuff :)
 - good note taking
 <!--
