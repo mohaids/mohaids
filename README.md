@@ -14,7 +14,7 @@ contact me: him@siddiqmohaideen.com 😛
 
 - aws (cloud stuff, IAM)
 - docker (hopefully kubernetes as well)
-- security stuff :)
+- security stuff (ctfs) :)
 - good note taking
 <!--
 **mohaids/mohaids** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
