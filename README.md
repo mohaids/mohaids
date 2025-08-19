@@ -1,7 +1,3 @@
-## 👀"Thoughts"
-
-Yes, I will die on this hill.
-
 ## 'Bout me
 
 student @ rpi (first poly uni in u.s.)
