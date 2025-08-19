@@ -4,7 +4,7 @@ student @ rpi (first poly uni in u.s.)
 
 catch my blog @: www.siddiqmohaideen.com
 
-contact me: him@siddiqmohaideen.com 😛
+contact me: him@siddiqmohaideen.com 😛 or rpi.siddiq@gmail.com
 
 ## Currently Learning
 
